@@ -8,6 +8,6 @@
   - `view all posts` 
   - `reset account password`
 
-> Visit Web-App [here](https://sachu-blog.herokuapp.com/)
+> Visit Web-App [here](https://sachu-django-blog.herokuapp.com/)
 
 > Create a new account or use this username and password `test` `Test@0000`
